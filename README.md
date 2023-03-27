@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Xyd (/sid/), I am a Computer Science Student at Dalhousie University in Halifax, NS, Canada. I'm currently learning how to build iOS apps with XCode and Swift. Feel free to reach me through my email <xyd.espino@dal.ca> if you have any questions about my work or would just like to have a chat 😃. Thanks for visiting my Github!
+
+
 
 <!--
 **xydespino/xydespino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
