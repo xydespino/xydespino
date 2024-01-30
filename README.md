@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Xyd (/sid/), I am a Computer Science Student at Dalhousie University in Halifax, NS, Canada. I'm improving my React skills and learning to build iOS apps with XCode and Swift. Feel free to reach me @ <xyd.espino@dal.ca> if you have any questions about my work or would like to chat 😃. Thanks for visiting my Github!
+### Hi there 👋, I'm Xyd (/sid/), I am a Computer Science Student at Dalhousie University in Halifax, NS, Canada. I'm improving my React skills and learning to build iOS apps with XCode and Swift. Feel free to reach me @ <xydespino@gmail.com> if you have any questions about my work or would like to chat 😃. Thanks for visiting my Github!
 
 
 
