@@ -1,4 +1,4 @@
-### Hi 👋, I'm Xyd (/sid/), I work full time as a Data Analyst / Consultant. Currently learning how to make a website from scratch. Also interested in making iOS apps! Thanks for visiting my Github!
+### Hi 👋, I'm Xyd (/sid/), I work full time as a Data Analyst / Power BI Consultant. Learning iOS and web development on the side. Thanks for visiting my Github!
 
 
 
