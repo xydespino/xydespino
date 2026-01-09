@@ -1,4 +1,4 @@
-### Hi 👋, I'm Xyd (/sid/), I work full time as a Data Analyst / Power BI Consultant. Learning iOS and web development on the side. Thanks for visiting my Github!
+### Hi 👋, I'm Xyd (/sid/), I work full time as a Data Analytics Consultant. With over 2+ years of work experience with Microsoft Fabric and the Power Platform, I create reports, models, automated flows and apps for companies across multiple industries. Thanks for visiting my Github!
 
 
 
